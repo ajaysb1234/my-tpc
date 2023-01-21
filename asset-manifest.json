@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.73db4bd5.css",
+    "main.js": "/static/js/main.4127f34f.js",
+    "static/js/787.1297bf1c.chunk.js": "/static/js/787.1297bf1c.chunk.js",
+    "static/media/logo.gif": "/static/media/logo.db595a8afbe6ffadfad1.gif",
+    "static/media/Darshan Kamble-modified.png": "/static/media/Darshan Kamble-modified.54eea063e6fbfe1259a0.png",
+    "static/media/jagruti bhagat.png": "/static/media/jagruti bhagat.becd194212f18461b45d.png",
+    "static/media/Nishant Jadhao-modified.png": "/static/media/Nishant Jadhao-modified.25f969ce45460359cdf3.png",
+    "static/media/Prajwal Gadge1-modified.png": "/static/media/Prajwal Gadge1-modified.ff90ab47b3cc55181102.png",
+    "static/media/TPC-PHCET-white.png": "/static/media/TPC-PHCET-white.915bf28135703304a25a.png",
+    "static/media/img1.jpeg": "/static/media/img1.b4894b98c85797170fe7.jpeg",
+    "index.html": "/index.html",
+    "main.73db4bd5.css.map": "/static/css/main.73db4bd5.css.map",
+    "main.4127f34f.js.map": "/static/js/main.4127f34f.js.map",
+    "787.1297bf1c.chunk.js.map": "/static/js/787.1297bf1c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73db4bd5.css",
+    "static/js/main.4127f34f.js"
+  ]
+}
